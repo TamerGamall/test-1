@@ -46,7 +46,7 @@ app.listen(3000, () => {
 
 // home
 app.get('/', (req, res) => {
-    res.send("/Home")
+    res.send("/Home_1")
 })
 
 //upload
